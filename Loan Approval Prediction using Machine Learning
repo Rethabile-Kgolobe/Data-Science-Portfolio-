@@ -1,8 +1,0 @@
-**Loan Approval Prediction:**
-
-    - **Overview**: Loans are one of the significant sources of income for banks and play a critical role in the economy and in individuals to manage expenses, purchase luxuries, etc. However, banks must examine many factors to assess whether the candidate is granted a loan. Since there are many features, banks can automate this process using machine learning tools to reduce the time taken for decision-making.
-      
-    - **Objective**: To develop a robust machine learning tool that will determine whether a loan application should be accepted or not based on features of the applicant, such as marital status, education level, income, etc.
-      
-    - **Dataset**: Source: [https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view]
-    - 
