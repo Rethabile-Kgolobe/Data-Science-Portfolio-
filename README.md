@@ -5,6 +5,7 @@ This portfolio showcases a collection of Data Science and Data Analysis projects
 # Projects
 
 ## Machine learning:
+
 1. **Loan Approval Prediction:**
    
 ## Overview: 
@@ -51,3 +52,7 @@ This portfolio showcases a collection of Data Science and Data Analysis projects
 4. **Hyperparameter tuning**:
    - The best-performing model, Random Forest, was tuned to optimize its performance.
    - The tuning process utilizes Grid search to search for the best parameters combined with cross-validation.
+     
+## Results
+- Random Forest performed well compared to the other two models, followed by XG Boosting with 0.8698 accuracy.
+- Hyperparameter tuning was performed on Random forest to improve its accuracy from 0.8698 to 0.8835.
