@@ -41,7 +41,7 @@ The Iris dataset includes the following features:
 3.  **Data Cleaning:**
 
     *   Checked for missing values using `.isnull().sum()`. No missing values were found.
-    *   Removed the `Id` column as it is not relevant for analysis.
+    *   Removed the `Id` column as it is irrelevant for analysis.
     *   Checked for duplicate entries. Duplicates were dropped to ensure data quality.
 4.  **Exploratory Data Analysis (EDA):**
 
@@ -83,11 +83,9 @@ The Iris dataset includes the following features:
 
 *   **Pairplot:** Illustrates the relationships between all pairs of features, with different colors representing different species.
 
-    (Ideally, you would embed the pairplot image here)
+*   **Correlation Heatmap:** Displays the correlation coefficients between numerical features. Darker colors indicate stronger correlations.
 
-*   **Correlation Heatmap:** Displays the correlation coefficients between numerical features. Darker colors indicate stronger correlations (positive or negative).
 
-    (Ideally, you would embed the heatmap image here)
 
 ### Conclusion
 
@@ -154,7 +152,6 @@ Key features in the dataset include:
 *   One-hot encoding of categorical variables significantly expands the feature space.
 *   Scaling numerical features improves the performance and stability of linear regression models.
 *   The linear regression model achieved a sure MAE, indicating the average absolute difference between predicted and actual sale prices.  *This needs to be replaced with the actual MAE you observed*.
-*   The Lasso Regression model was added to reduce the impact of less relevant features on the overall model and provided an improved MAE value.
 
 ### Model Performance
 
@@ -184,7 +181,7 @@ Loans are a significant source of income for banks and play a critical role in t
 2.  **Models Development:**
 
     *   **Random Forest:** Implemented for its robustness and ability to handle complex interactions.
-    *   **Gradient Boosting:** Used for handling large datasets and feature interactions efficiently.
+    *   **Gradient Boosting:** Used for efficiently handling large datasets and feature interactions.
     *   **XG Boosting:** Utilized for its speed and performance in handling sparse data.
 3.  **Evaluation:**
 
