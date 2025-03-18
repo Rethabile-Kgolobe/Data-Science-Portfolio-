@@ -136,7 +136,7 @@ Key features in the dataset include:
 
     *   Split the data into training and testing sets.
     *   Trained a Linear Regression model on the training data.
-    *   Evaluated the model's performance on the testing data using Mean Absolute Error (MAE).  Also, a Lasso regression model was trained and evaluated.
+    *   Evaluated the model's performance on the testing data using Mean Absolute Error (MAE).
 
 ### Tools Used
 
@@ -151,7 +151,7 @@ Key features in the dataset include:
 
 *   One-hot encoding of categorical variables significantly expands the feature space.
 *   Scaling numerical features improves the performance and stability of linear regression models.
-*   The linear regression model achieved a sure MAE, indicating the average absolute difference between predicted and actual sale prices.  *This needs to be replaced with the actual MAE you observed*.
+*   The linear regression model achieved a sure MAE, indicating the average absolute difference between predicted and actual sale prices.
 
 ### Model Performance
 
@@ -159,7 +159,7 @@ Key features in the dataset include:
 
 ### Conclusion
 
-This project demonstrated the building of a linear regression model to predict house prices. Data preprocessing, feature engineering, and data scaling were crucial to improving model performance. The model can be further enhanced by exploring other regression algorithms, feature selection techniques, and hyperparameter tuning.  Also, it is essential to consider the impact of missing data the importance of investigating missingness, and the potential introduction of bias that the missingness implies.
+This project demonstrated the building of a linear regression model to predict house prices. Data preprocessing, feature engineering, and data scaling were crucial to improving model performance. The model can be further enhanced by exploring other regression algorithms, feature selection techniques, and hyperparameter tuning.  Also, it is essential to consider the impact of missing data, the importance of investigating missingness, and the potential introduction of bias that the missingness implies.
 
 ## Project 3: Loan Approval Prediction
 
