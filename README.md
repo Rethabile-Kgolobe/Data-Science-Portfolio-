@@ -4,7 +4,7 @@ This portfolio showcases a collection of Data Science and Data Analysis projects
 - LinkedIn:https://www.linkedin.com/in/rethabile-kgolobe-b82121265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 # Projects
 
-# HexSoftwares Project: Exploratory Data Analysis, House Price Prediction, and Loan Approval Prediction
+# Exploratory Data Analysis, House Price Prediction, and Loan Approval Prediction
 
 ## Project Overview
 
